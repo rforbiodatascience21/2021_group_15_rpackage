@@ -3,4 +3,11 @@
 export(dna_codons_to_aa)
 export(mk_codons)
 export(random_dna)
+<<<<<<< HEAD
+<<<<<<< HEAD
 export(random_rna)
+=======
+>>>>>>> 70da3c87bb2b86c0298d35fa0ea1e77d7ba1d4fe
+=======
+export(random_rna)
+>>>>>>> 4507ad5ac39c0caf2c9e7c01ed7aa539fb741f7e
