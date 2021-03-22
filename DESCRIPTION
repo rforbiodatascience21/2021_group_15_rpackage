@@ -6,11 +6,7 @@ Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-<<<<<<< HEAD
-License: GPL-3
-=======
 License: GLP-3
->>>>>>> 4507ad5ac39c0caf2c9e7c01ed7aa539fb741f7e
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
