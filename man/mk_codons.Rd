@@ -2,10 +2,10 @@
 % Please edit documentation in R/mk_codons.R
 \name{mk_codons}
 \alias{mk_codons}
-\title{mk_codon}
+\title{mk_codons}
 \usage{
 mk_codons(dna, s = 1)
 }
 \description{
-mk_codon
+mk_codons
 }
