@@ -1,5 +1,5 @@
-# R/mk_codon.R
-#'mk_codon
+# R/mk_codons.R
+#'mk_codons
 #'@export
 
 mk_codons <- function(dna, s = 1){
