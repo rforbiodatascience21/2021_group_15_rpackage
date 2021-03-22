@@ -1,4 +1,7 @@
-# R/mk_codons.R
+# R/mk_codon.R
+#'mk_codon
+#'@export
+
 mk_codons <- function(dna, s = 1){
   l = nchar(dna)
   codons <- substring(dna,
