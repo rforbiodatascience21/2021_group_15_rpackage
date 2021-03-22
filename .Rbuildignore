@@ -3,4 +3,7 @@
 ^lab08aSimpleRpackage\.Rcheck$
 ^lab08aSimpleRpackage.*\.tar\.gz$
 ^lab08aSimpleRpackage.*\.tgz$
+<<<<<<< HEAD
 ^LICENSE\.md$
+=======
+>>>>>>> 70da3c87bb2b86c0298d35fa0ea1e77d7ba1d4fe
